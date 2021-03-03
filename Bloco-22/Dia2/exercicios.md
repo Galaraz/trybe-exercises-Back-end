@@ -1,6 +1,6 @@
-#Exercícios de fixação
+# Exercícios de fixação
 
-##Exercício 1: Analise as tabelas actor , address , city e film do banco de dados sakila e determine se elas estão ou não dentro de alguma das formas normais.
+## Exercício 1: Analise as tabelas actor , address , city e film do banco de dados sakila e determine se elas estão ou não dentro de alguma das formas normais.
 Tabela actor
 Está na 3ª Forma Normal.
 Motivo:
@@ -58,7 +58,7 @@ Motivo:
 Coluna special_features possui mais de 1 valor, o que viola uma das regras da 1ª Forma Normal.
 
 
-##Exercício 2: Normalize a estrutura a seguir para a 1ª Forma Normal
+## Exercício 2: Normalize a estrutura a seguir para a 1ª Forma Normal
 Obs.: Lembre-se de que existem diversas maneiras de resolver o mesmo problema, desde que todas as condiçoes da 1ª Forma Normal sejam atendidas.
 1ª Forma Normal
 Colunas devem possuir apenas um valor
@@ -78,7 +78,7 @@ Tabela funcionario
 | 15               | Fernanda | Mendes    | fernandamendes@yahoo.com | (33)99200-1556  | 2020-05-05 11:45:40   | Marketing     |
 
 
-##Exercício 3: Usando a estrutura (já normalizada para 1ª Forma Normal) da tabela anterior, transforme-a agora na 2° Forma Normal.
+## Exercício 3: Usando a estrutura (já normalizada para 1ª Forma Normal) da tabela anterior, transforme-a agora na 2° Forma Normal.
 Novamente, há diferentes maneiras de resolver esse problema. Desde que se atenda aos requisitos a seguir, considere o exercício correto.
 2ª Forma Normal
 Tabela deve estar na 1ª Forma Normal
