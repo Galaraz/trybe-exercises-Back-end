@@ -1,7 +1,9 @@
-1 .A seguir encontra-se uma sugestão de solução para os exercícios propostos.
+/* 1 .A seguir encontra-se uma sugestão de solução para os exercícios propostos.
 Inserindo os documentos de exemplo na coleção movies do banco de dados class :
+ */
 
-use class;
+//use class;
+
 db.movies.insertMany([
   {
     "title": "Batman",
@@ -22,6 +24,6 @@ db.movies.insertMany([
 ]);
 
 
-Verificando que existem três documentos na coleção:
+//Verificando que existem três documentos na coleção:
 
 db.movies.count()
